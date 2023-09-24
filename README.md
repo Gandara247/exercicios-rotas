@@ -192,6 +192,4 @@ A API pode retornar os seguintes erros:
 
 ## Conclusão
 
-Esta é uma API simples para gerenciar carros. Ela permite que você obtenha informações sobre carros por meio de diferentes parâmetros, como ID, nome, modelo, ano e cor. Esperamos que esta documentação tenha sido útil para você.
-
-Espero que você tenha gostado do README que eu criei para você. Se você quiser fazer alguma alteração, sinta-se à vontade. Obrigado por usar o Bing. 😊
+Esta é uma API simples para gerenciar carros. Ela permite que você obtenha informações sobre carros por meio de diferentes parâmetros, como ID, nome, modelo, ano e cor.
